@@ -7,8 +7,6 @@
 		<dict>
 			<key>Image File</key>
 			<string>yandex.png</string>
-			<key>Regular Expression</key>
-			<string>(?s)^.{1,200}$</string>
 			<key>Title</key>
 			<string>Yandex</string>
 			<key>URL</key>
@@ -28,6 +26,8 @@
 	<dict>
 		<key>en</key>
 		<string>Search the web using Yandex.</string>
+		<key>ru</key>
+		<string>искать на Яндексе</string>
 	</dict>
 	<key>Extension Identifier</key>
 	<string>com.example.myextension</string>
