@@ -33,6 +33,8 @@
 	<string>com.example.myextension</string>
 	<key>Extension Name</key>
 	<string>Yandex</string>
+	<key>Name</key>
+	<string>Igor Rakitin</string>
 	<key>Required Software Version</key>
 	<integer>693</integer>
 </dict>
