@@ -1,1 +1,1 @@
-This is a extension for PopClip to search Yandex
+This is a extension for PopClip to search Yandex, russian search engine
