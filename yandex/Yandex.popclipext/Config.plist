@@ -10,7 +10,7 @@
 			<key>Title</key>
 			<string>Yandex</string>
 			<key>URL</key>
-			<string>https://yandex.ru/yandsearch?text={popclip text}</string>
+			<string>https://yandex.ru/search/?text={popclip text}</string>
 		</dict>
 	</array>
 	<key>Apps</key>
