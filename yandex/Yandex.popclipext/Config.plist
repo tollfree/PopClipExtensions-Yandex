@@ -8,7 +8,12 @@
 			<key>Image File</key>
 			<string>yandex.png</string>
 			<key>Title</key>
-			<string>Yandex</string>
+			<dict>
+				<key>en</key>
+				<string>search on Yandex</string>
+				<key>ru</key>
+				<string>искать на Яндексе</string>
+			</dict>
 			<key>URL</key>
 			<string>https://yandex.ru/search/?text={popclip text}</string>
 		</dict>
@@ -17,7 +22,7 @@
 	<array>
 		<dict>
 			<key>Link</key>
-			<string>http://yandex.ru/</string>
+			<string>https://yandex.ru/</string>
 			<key>Name</key>
 			<string>Yandex</string>
 		</dict>
@@ -30,12 +35,14 @@
 		<string>искать на Яндексе</string>
 	</dict>
 	<key>Extension Identifier</key>
-	<string>com.example.myextension</string>
+	<string>com.yandex.search</string>
 	<key>Extension Name</key>
 	<string>Yandex</string>
 	<key>Name</key>
 	<string>Igor Rakitin</string>
+	<key>Preserve Image Color</key>
+	<true/>
 	<key>Required Software Version</key>
-	<integer>693</integer>
+	<integer>701</integer>
 </dict>
 </plist>
